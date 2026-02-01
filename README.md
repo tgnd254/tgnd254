@@ -2,22 +2,21 @@
 
 ### <span style="color:#1abc9c;">I’m Estefanía, a Computer Science student at the University of Havana.</span>
 
-I’m focused on my dreams, eager to learn, and passionate about building useful applications.  
+### I’m focused on my dreams, eager to learn, and passionate about building useful applications.  
 
 ---
 
 ## 💻 **Interests**
 
-- 🐍 Python app development  
-- 🎯 Learning new concepts and improving every day  
-- 🧠 Problem‑solving and structured thinking  
+### - 🐍 Python app development  
+### - 🎯 Learning new concepts and improving every day  
+### - 🧠 Problem‑solving and structured thinking  
 
 ---
 
 ## 📊 **Skills**
 
-![Python](https://img.shields.io/badge/Python-1abc9c?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0e7490?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/> <img src="https://isocpp.org/assets/images/cpp_logo.png" width="80"/>
 
 ---
 

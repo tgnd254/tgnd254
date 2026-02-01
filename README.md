@@ -1,24 +1,31 @@
-🧩Benvenuti 
+#  **Benvenuti 🍝**
 
-I’m Estefanía, a Computer Science student at the University of Havana.  
-I’m focused on my dreams, eager to learn, and passionate about building useful and elegant applications.  
+### <span style="color:#1abc9c;">I’m Estefanía, a Computer Science student at the University of Havana.</span>
 
-💻 Interests
+I’m focused on my dreams, eager to learn, and passionate about building useful applications.  
 
-    🐍 Python app development
-    🎯 Learning new concepts and improving every day
-    🧠 Problem‑solving and structured thinking
+---
 
-📊 Skills
+## 💻 **Interests**
 
-    🐍 Python
-    💠 C++
+- 🐍 Python app development  
+- 🎯 Learning new concepts and improving every day  
+- 🧠 Problem‑solving and structured thinking  
 
-🚀 Top repository
+---
 
-    🌊 https://github.com/tgnd254/Planificador-de-Eventos
+## 📊 **Skills**
 
-More in my profile!
+![Python](https://img.shields.io/badge/Python-1abc9c?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0e7490?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 🚀 **Top repository**
+
+🐶 **[Planificador de Eventos](https://github.com/tgnd254/Planificador-de-Eventos)**
+
+---
 
 
 <!--

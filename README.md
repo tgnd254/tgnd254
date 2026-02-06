@@ -22,7 +22,7 @@
 
 ## 🚀 **Top repository**
 
-🐶 **[Planificador de Eventos](https://github.com/tgnd254/Planificador-de-Eventos)**
+🐶 **[HappyPaws](https://github.com/tgnd254/Planificador-de-Eventos)**
 
 ---
 
